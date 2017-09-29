@@ -28,7 +28,7 @@ const data = [
         "first_name": "Janet",
         "last_name": "Juliana",
         "marital_status": "married"
-    },
+    }
 ];
 
 
